@@ -1,0 +1,9 @@
+#scr1 div {visibility:hidden;}
+
+#scr1, #scr1 div.default {
+  width:800px;
+  height:120px;
+  overflow:hidden;
+  visibility:visible;
+}
+#scr1 table tr td div {visibility:visible;}
